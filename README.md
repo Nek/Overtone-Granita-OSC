@@ -1,13 +1,4 @@
-# osc-control
+Send Overtone's control values through OSC to Pure Data.
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
-
-## License
-
-Copyright © 2013 FIXME
-
-Distributed under the Eclipse Public License, the same as Clojure.
+See accompanying PD's patches:
+https://github.com/Nek/Granita-OSC
